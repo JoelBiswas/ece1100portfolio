@@ -1,0 +1,110 @@
+{
+  "r2d2": [
+    {
+      "file": "r2d2-gallery-1.png",
+      "alt": "Droid CAD \u2014 front left",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/r2d2/HEAD/CAD/Images/FrontLeftIsometric.png"
+    },
+    {
+      "file": "r2d2-gallery-2.png",
+      "alt": "Droid CAD \u2014 rear right",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/r2d2/HEAD/CAD/Images/BackRightIsometric.png"
+    },
+    {
+      "file": "r2d2-gallery-3.png",
+      "alt": "Droid CAD \u2014 underside",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/r2d2/HEAD/CAD/Images/BottomView.png"
+    },
+    {
+      "file": "r2d2-gallery-4.png",
+      "alt": "Controller CAD \u2014 internal layout",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/CustomRFController/HEAD/CAD/Images/OpenView.png"
+    },
+    {
+      "file": "r2d2-gallery-5.png",
+      "alt": "Controller CAD \u2014 top view",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/CustomRFController/HEAD/CAD/Images/TopView.png"
+    }
+  ],
+  "axial-flux": [
+    {
+      "file": "axial-flux-gallery-1.png",
+      "alt": "Motor housing",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/Axial-Flux-Motor/HEAD/CAD/HousingImage.png"
+    },
+    {
+      "file": "axial-flux-gallery-2.png",
+      "alt": "Rotor design",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/Axial-Flux-Motor/HEAD/CAD/RotorImage.png"
+    },
+    {
+      "file": "axial-flux-gallery-3.png",
+      "alt": "Stator design",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/Axial-Flux-Motor/HEAD/CAD/StatorImage.png"
+    },
+    {
+      "file": "axial-flux-gallery-4.png",
+      "alt": "Mechanical simulation \u2014 displacement",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/Axial-Flux-Motor/HEAD/Simulation/Displacement.png"
+    },
+    {
+      "file": "axial-flux-gallery-5.png",
+      "alt": "Mechanical simulation \u2014 safety factor",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/Axial-Flux-Motor/HEAD/Simulation/SafetyFactor.png"
+    },
+    {
+      "file": "axial-flux-gallery-6.png",
+      "alt": "Mechanical simulation \u2014 strain",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/Axial-Flux-Motor/HEAD/Simulation/Strain.png"
+    }
+  ],
+  "ventilator": [
+    {
+      "file": "ventilator-gallery-1.png",
+      "alt": "Ventilator CAD \u2014 front",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/DIYVentilator/HEAD/CAD/Images/Front.png"
+    },
+    {
+      "file": "ventilator-gallery-2.png",
+      "alt": "Ventilator CAD \u2014 rear",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/DIYVentilator/HEAD/CAD/Images/Back.png"
+    },
+    {
+      "file": "ventilator-gallery-3.png",
+      "alt": "Ventilator CAD \u2014 left side",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/DIYVentilator/HEAD/CAD/Images/Left.png"
+    },
+    {
+      "file": "ventilator-gallery-4.png",
+      "alt": "Ventilator CAD \u2014 top",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/DIYVentilator/HEAD/CAD/Images/Top.png"
+    }
+  ],
+  "risc-v-core": [
+    {
+      "file": "risc-v-gallery-2.png",
+      "alt": "CPU architecture diagram",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/RISC-V-Core/HEAD/Docs/Images/CPUArchitecture.png"
+    },
+    {
+      "file": "risc-v-gallery-3.png",
+      "alt": "System architecture diagram",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/RISC-V-Core/HEAD/Docs/Images/SystemArchitecture.png"
+    },
+    {
+      "file": "risc-v-gallery-4.png",
+      "alt": "Verification environment architecture",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/RISC-V-Core/HEAD/Docs/Images/VerificationArchitecture.png"
+    },
+    {
+      "file": "risc-v-gallery-5.png",
+      "alt": "Design rule check report",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/RISC-V-Core/HEAD/Docs/Images/DRC.png"
+    },
+    {
+      "file": "risc-v-gallery-6.png",
+      "alt": "Layout versus schematic report",
+      "source": "https://raw.githubusercontent.com/JoelBiswas/RISC-V-Core/HEAD/Docs/Images/LVS.png"
+    }
+  ]
+}
